@@ -1,0 +1,31 @@
+Link for downloading Git
+
+
+https://git-scm.com/downloads/win 
+
+github
+Gitbucket
+Gitlabs
+Gitpod 
+
+
+For first time need to configure github in our system
+git config --global user.name "Devika150503"
+
+neec to congigure email-id also
+git config --global user.email "sakthiveldevika15@gmail.com"
+
+
+git config --global color.ui auto
+
+
+
+Mandatory Commands : 
+git init
+git remote add origin https://github.com/Devika150503/GitDemo.git
+
+
+command to rise a pull
+
+
+git pull origin main (branch name)
