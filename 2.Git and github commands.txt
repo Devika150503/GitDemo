@@ -29,3 +29,9 @@ command to rise a pull
 
 
 git pull origin main (branch name)
+git status
+
+git add .
+git status
+git commit m "Commit Message"
+git push 
